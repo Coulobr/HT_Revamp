@@ -1,0 +1,1442 @@
+fileFormatVersion: 2
+guid: df2d69bf449708b4299ca680800d05ff
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1892
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6278ffaba77f9f4e89c809b571bfd85
+      internalID: -1754362533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1890
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bacd0c2f0b3d24794127e6e47408aa
+      internalID: 1624225067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1889
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9333340d9b0c4ee43a541e3735bbd06a
+      internalID: 1067814288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1888
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631878d2ece356e4c8f8a54f71311d88
+      internalID: 141048347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1887
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765530282259a1a48bc8f356469deeeb
+      internalID: 1870658365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1886
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3b46a6eeeb50644acbbc3b0cdc9c4f
+      internalID: -1359646946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1884
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7411cd2e574c7a942af035f8b3a9f713
+      internalID: -315207521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1883
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f2349d013dc874b8e6d5feb99778c7
+      internalID: -581582164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 1882
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecd76d6fc149af4cb75693d4aef9706
+      internalID: 1153426807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1881
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6573fa3cb92cef14fb01b4e2d23dbd3e
+      internalID: 1135262731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1680
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7db1daf1ed4b34ab4fb740da0a51c9
+      internalID: 1420730871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1678
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16fe9ced18747647968f339a6da6247
+      internalID: -1371668370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1678
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c35a2d7d65f6c949be054a6a1f27753
+      internalID: -601831466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1676
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec413eaaefe960143ad160053250a6b7
+      internalID: 1659443052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1675
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ba9e15534ceb0429928f220752affb
+      internalID: 384013966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1674
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da98e87447890994db233f0d4703e7e0
+      internalID: -1057643360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1673
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c3582cf730a4a43a1bb47f7e2991f0
+      internalID: -205530824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1672
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30c4b80aca66fc49aeb3f06fa500544
+      internalID: 1673815422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1671
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5f03680a13cb144a9ce8242c64c606
+      internalID: 386014812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1671
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bbaf068625d734bb86304ff79b4db1
+      internalID: 1975207540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1470
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66178dd6c9ad06a4b93a4b6d833ba65f
+      internalID: -1829615131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1469
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6488b51520770e4d8b86f3c3a81a9a3
+      internalID: -1229339573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1468
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bf91e3d0a32864bb0cf5c0f9e1646b
+      internalID: -1048770431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1467
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5e2aa4ad2eda8478467e28d6bc74a4
+      internalID: -1821658420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1466
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1ea24a6a370ff4c853d6b82689f7f6
+      internalID: -1083400207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1466
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7867e8482fea8964c8c0e48b5d8e4a00
+      internalID: -1443428208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1465
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fe640e8213e8c44a6feba4bfdaef80
+      internalID: 674616220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1465
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57e45b761e5beb44855ec2639440069
+      internalID: 239718830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1465
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f91270fc4364b479761830095997e0
+      internalID: -1545069270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1493
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42e590fd310f4b4f9607dd7a6bd7969
+      internalID: -221549041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1292
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7216b83dcbaca2443b11f12dfcc6e3ca
+      internalID: -35681081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1290
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24455ac0bfa53554684a649099eec661
+      internalID: -1798503114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1289
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2a5a8d88764a14ea187e3dd8e4d663
+      internalID: 1607301811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1288
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1837e57f7da5942bf9768de63c5cac
+      internalID: -1230835590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1287
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86c78ad2caa0fa4aa65314cb9fdd0b0
+      internalID: -2122503200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1286
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d56ef2c756fe5a40a312fad3dbdedf0
+      internalID: 847962796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1284
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64408dca2406c514ca06fc4768123974
+      internalID: -89046602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1283
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cc57511926d554095d06d197f3f2ba
+      internalID: -1096313402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 1282
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0b9dec15a89fa49b1f1e01768d0517
+      internalID: 1612036711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1281
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44eb335a0bc58e4fb8f8af2bf118783
+      internalID: 699606700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1080
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af334024655d2c4eace637b73f81839
+      internalID: -1828219355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1079
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa55cfb24916d3e4cb466a1477183116
+      internalID: 1658269293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1078
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c4c853ab44f1f4498e9bb45780e101
+      internalID: -1152299350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1076
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb51bc23c7f3c149ada1d7d89fc2af9
+      internalID: 1803077438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1075
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c027423e6fa3fd45b9ffd703ce37b41
+      internalID: -561732322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1074
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aeeaf4c8ed4284b8980f759833db68
+      internalID: -2073876795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1073
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513d9fa5de00cfe4e9f126f1532d8f1f
+      internalID: -147735649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1072
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc11e0166922ee4b98434a951d63282
+      internalID: -447763058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1071
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6b7cc4e9104194dbcd379140821d42
+      internalID: 198785466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1071
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e771538730ec3ea4eafcfc25f5eee599
+      internalID: 1317634076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 870
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8967ba88b067945458736fbe3bded591
+      internalID: -940620967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 869
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ebb38d0e5152447931dae46076174a
+      internalID: -1563487412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 868
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1854de51926de644e8fa141c77c943e8
+      internalID: 763244773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 867
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6054043dc251202448f213ef67672a14
+      internalID: -183406064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 866
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12333b4e9893bf64a93046f977495170
+      internalID: -1095038719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 866
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b54aca72c4b7cd4194b330148b9188b
+      internalID: -1064021104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 865
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0039f5bbcfe62ae4aa350a74edaea09c
+      internalID: -140722960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 865
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc10c9182331f144a09a1a3604c237c
+      internalID: -209107601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 865
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd64c9ea4d076141b9ea008b8eff745
+      internalID: -1248347528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading_icon_ripples_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 893
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bab7920399fb54bb5d10c6a68f57af
+      internalID: -2128829878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      loading_icon_ripples_spritesheet_47: -447763058
+      loading_icon_ripples_spritesheet_24: -1083400207
+      loading_icon_ripples_spritesheet_37: -1096313402
+      loading_icon_ripples_spritesheet_4: 1870658365
+      loading_icon_ripples_spritesheet_28: -1545069270
+      loading_icon_ripples_spritesheet_33: -1230835590
+      loading_icon_ripples_spritesheet_49: 1317634076
+      loading_icon_ripples_spritesheet_57: -209107601
+      loading_icon_ripples_spritesheet_58: -1248347528
+      loading_icon_ripples_spritesheet_45: -2073876795
+      loading_icon_ripples_spritesheet_1: 1624225067
+      loading_icon_ripples_spritesheet_36: -89046602
+      loading_icon_ripples_spritesheet_15: -1057643360
+      loading_icon_ripples_spritesheet_32: 1607301811
+      loading_icon_ripples_spritesheet_46: -147735649
+      loading_icon_ripples_spritesheet_18: 386014812
+      loading_icon_ripples_spritesheet_12: -601831466
+      loading_icon_ripples_spritesheet_26: 674616220
+      loading_icon_ripples_spritesheet_35: 847962796
+      loading_icon_ripples_spritesheet_48: 198785466
+      loading_icon_ripples_spritesheet_53: -183406064
+      loading_icon_ripples_spritesheet_5: -1359646946
+      loading_icon_ripples_spritesheet_39: 699606700
+      loading_icon_ripples_spritesheet_50: -940620967
+      loading_icon_ripples_spritesheet_56: -140722960
+      loading_icon_ripples_spritesheet_10: 1420730871
+      loading_icon_ripples_spritesheet_17: 1673815422
+      loading_icon_ripples_spritesheet_11: -1371668370
+      loading_icon_ripples_spritesheet_22: -1048770431
+      loading_icon_ripples_spritesheet_13: 1659443052
+      loading_icon_ripples_spritesheet_3: 141048347
+      loading_icon_ripples_spritesheet_14: 384013966
+      loading_icon_ripples_spritesheet_8: 1153426807
+      loading_icon_ripples_spritesheet_41: 1658269293
+      loading_icon_ripples_spritesheet_16: -205530824
+      loading_icon_ripples_spritesheet_51: -1563487412
+      loading_icon_ripples_spritesheet_43: 1803077438
+      loading_icon_ripples_spritesheet_27: 239718830
+      loading_icon_ripples_spritesheet_44: -561732322
+      loading_icon_ripples_spritesheet_30: -35681081
+      loading_icon_ripples_spritesheet_9: 1135262731
+      loading_icon_ripples_spritesheet_23: -1821658420
+      loading_icon_ripples_spritesheet_54: -1095038719
+      loading_icon_ripples_spritesheet_2: 1067814288
+      loading_icon_ripples_spritesheet_34: -2122503200
+      loading_icon_ripples_spritesheet_40: -1828219355
+      loading_icon_ripples_spritesheet_20: -1829615131
+      loading_icon_ripples_spritesheet_42: -1152299350
+      loading_icon_ripples_spritesheet_29: -221549041
+      loading_icon_ripples_spritesheet_31: -1798503114
+      loading_icon_ripples_spritesheet_7: -581582164
+      loading_icon_ripples_spritesheet_21: -1229339573
+      loading_icon_ripples_spritesheet_59: -2128829878
+      loading_icon_ripples_spritesheet_55: -1064021104
+      loading_icon_ripples_spritesheet_6: -315207521
+      loading_icon_ripples_spritesheet_0: -1754362533
+      loading_icon_ripples_spritesheet_52: 763244773
+      loading_icon_ripples_spritesheet_19: 1975207540
+      loading_icon_ripples_spritesheet_25: -1443428208
+      loading_icon_ripples_spritesheet_38: 1612036711
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

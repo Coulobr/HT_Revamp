@@ -1,0 +1,84 @@
+.ht-background {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    background-color: rgb(53, 53, 53);
+    flex-grow: 1;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    justify-content: flex-end;
+    align-items: center;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.ht-title-label .unity-label {
+    position: absolute;
+    -unity-text-align: middle-center;
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+    justify-content: flex-end;
+    width: 100%;
+    align-items: auto;
+    background-color: rgba(255, 255, 255, 0);
+    -unity-font-style: bold;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=ce113187fa657b14bb78fd25ee15e250&type=3#NotInter-Regular');
+}
+
+.ht-parent-dropdown .unity-base-field {
+    position: absolute;
+    height: 5%;
+    top: 0;
+    left: 0;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=ce113187fa657b14bb78fd25ee15e250&type=3#NotInter-Regular');
+    font-size: 0;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    -unity-font-style: bold;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    bottom: 0;
+}
+
+.ht-button .unity-button {
+    height: 100px;
+    width: 272px;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=ce113187fa657b14bb78fd25ee15e250&type=3#NotInter-Regular');
+    -unity-font-style: bold;
+    background-color: rgb(245, 41, 57);
+    -unity-text-align: middle-center;
+    position: absolute;
+    translate: 0 0;
+    left: 836px;
+    top: 902px;
+}
+
+.runtime-image-bataroundLogo {
+    position: absolute;
+    width: 800px;
+    height: 600px;
+    top: 262px;
+    left: 556px;
+    background-image: url('project://database/Assets/HitTraxRevamp/Feature1Bundle/Image1.png?fileID=2800000&guid=41277aa9dc9a4e344990bba9f27c42ae&type=3#Image1');
+}
+
+.runtime-image-hittraxLogo {
+    position: absolute;
+    width: 1100px;
+    height: 300px;
+    top: 363px;
+    left: 368px;
+    background-image: url('project://database/Assets/HitTraxRevamp/Feature1Bundle/ht-logo-black-red-rgb.png?fileID=2800000&guid=d142304f00b129246b54175cf81bffa8&type=3#ht-logo-black-red-rgb');
+}

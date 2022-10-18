@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: FeatureAUI
+  m_EditorClassIdentifier: 
+  m_GroupName: FeatureAUI
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a7c263302b324c1419d3c7997f9a2167
+  m_SerializeEntries:
+  - m_GUID: d8401ee8b2e99044d904df7665bb8f03
+    m_Address: Assets/HitTraxRevamp/FeatureA/Assets/FeatureAUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c0651c613bef61b40924ada5ce0296d6
+    m_Address: Assets/HitTraxRevamp/FeatureA/Assets/FeatureUIManager.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3957cb16c52672b499e9f216f2573514, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1bc5a44a347755c4f873932f09344d51, type: 2}

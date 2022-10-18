@@ -1,0 +1,22 @@
+@import url("BaseTheme.tss");
+
+@import url("RuntimeTestUSS.uss");
+
+VisualElement {}
+
+.ht-background {
+    background-color: rgb(31, 46, 82);
+}
+
+.ht-title-label .unity-label {
+   
+}
+
+.ht-parent-dropdown .unity-base-field {
+   
+}
+
+.ht-button .unity-button {   
+    color: rgba(255, 255, 255, 255); 
+    background-color: rgba(245, 41, 57, 255);   
+}

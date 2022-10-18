@@ -1,0 +1,67 @@
+@import url("/Assets/UI Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss");
+
+@import url("RuntimeTestUSS.uss");
+VisualElement {}
+
+.ht-background {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    background-color: rgb(53, 53, 53);
+    flex-grow: 1;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.ht-title-label .unity-label {
+    position: absolute;
+    -unity-text-align: middle-center;
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+    justify-content: flex-end;
+    width: 100%;
+    align-items: auto;
+    background-color: rgba(255, 255, 255, 0);
+    -unity-font-style: bold;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=ce113187fa657b14bb78fd25ee15e250&type=3#NotInter-Regular');
+}
+
+.ht-parent-dropdown .unity-base-field {
+    position: absolute;
+    height: 5%;
+    top: 0;
+    left: 0;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=ce113187fa657b14bb78fd25ee15e250&type=3#NotInter-Regular');
+    font-size: 0;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    -unity-font-style: bold;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    bottom: 0;
+}
+
+.ht-button .unity-button {
+    height: 100px;
+    width: 272px;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 60px;
+    color: rgba(255, 255, 255, 255);
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=ce113187fa657b14bb78fd25ee15e250&type=3#NotInter-Regular');
+    -unity-font-style: bold;
+    background-color: rgba(245, 41, 57, 255);
+    -unity-text-align: middle-center;
+    position: absolute;
+    translate: 0 0;
+    left: 836px;
+    top: 902px;
+}

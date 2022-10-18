@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Feature1DLL
+  m_EditorClassIdentifier: 
+  m_GroupName: Feature1DLL
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 60341a63bfb9abd4d80fc4cb3210e736
+  m_SerializeEntries:
+  - m_GUID: 7f74ca667536cdf4a939758bd4c8daf7
+    m_Address: Assets/HitTraxRevamp/FeatureA/FeatureA.txt
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3957cb16c52672b499e9f216f2573514, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0e8a1ea5c201275468c6c80ae2fc96ff, type: 2}

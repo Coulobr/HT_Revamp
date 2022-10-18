@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/HitTraxRevamp/Resources/RuntimeTestUSS.uss?fileID=7433441132597879392&amp;guid=f61cd3777b1dcda499b8e1d83f65c0b2&amp;type=3#RuntimeTestUSS" />
+    <ui:VisualElement picking-mode="Ignore">
+        <ui:GroupBox name="background" picking-mode="Ignore" class="ht-background" />
+        <ui:DropdownField index="-1" choices="System.Collections.Generic.List`1[System.String]" name="dropdown-field" class="ht-parent-dropdown" style="width: 646px; position: absolute; top: 172px; left: 638px;" />
+        <ui:VisualElement name="title-container" picking-mode="Ignore" class="ht-title-label" style="width: 1920px; height: 1080px; position: absolute;">
+            <ui:Label text="Select Skin" display-tooltip-when-elided="true" name="title-label" />
+        </ui:VisualElement>
+        <ui:VisualElement name="button-container" picking-mode="Ignore" class="ht-button">
+            <ui:Button text="Launch" display-tooltip-when-elided="true" name="launch-button" focusable="true" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
